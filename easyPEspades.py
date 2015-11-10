@@ -1,5 +1,3 @@
-# python easyPEspades.py /media/inesmendes/40EACA77EACA68AC/Users/Ines/Os\ Meus\ Documentos/tese\ -\ seq\ dump/SDSEummiBGI/cdts-wh.genomics.cn/F13TSFEUHT0149_STRuckR/clean_reads
-# python easyPEspades.py /home/inesmendes/Documents/spades_script/seq_testes
 
 import sys
 import os
